@@ -1,0 +1,22 @@
+.label1{width: 235px;margin: 0 auto;}
+.block1{
+    padding: 5px;
+    width: 700px;
+    display: block;
+    margin: auto;
+}
+.block2{
+    display: block;
+    margin: auto;
+    padding: 5px;
+    width: 700px;
+}
+.block2 img{max-width: 100%;}
+.block3{
+    display: block;
+    margin: auto;
+    padding: 5px;
+    width: 700px;
+}
+.block3 img{max-width: 100%;}
+
